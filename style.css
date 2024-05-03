@@ -185,15 +185,16 @@ footer {
 
 .monograph img {
 	width: 20%;
-	min-width: 150px;
+	min-width: 100px;
 	max-height: 400px;
 	height: auto;
-	object-fit: cover;
+	object-fit: scale-down;
 	margin: 4vw;
 	margin-right: 3vw;
 	border: 0.5vw solid tan;
 	box-shadow: 5px 5px 10px 2px rgba(0,0,0,.8);
 }
+
 
 .monograph h3 {
 	color: tan;
