@@ -184,8 +184,9 @@ footer {
 }
 
 .monograph img {
-	width: 20vw;
-	height: 16vw;
+	width: 30%;
+	height: auto;
+	object-fit: cover;
 	margin: 8vw;
 	border: 0.5vw solid tan;
 	box-shadow: 5px 5px 10px 2px rgba(0,0,0,.8);
@@ -195,5 +196,9 @@ footer {
 	color: tan;
 	margin: 8vw;
 
+}
+
+.monograph h3 a {
+	
 }
 
