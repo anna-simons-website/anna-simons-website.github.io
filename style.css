@@ -132,6 +132,10 @@ body {
 
 }
 
+.book h3 a {
+	color: tan;
+}
+
 .contact-email {
     	padding: 3vh;
   	margin:6vh;
