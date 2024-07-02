@@ -40,10 +40,20 @@ body {
 	background-color: #003200;
 }
 
+
+
+@media (max-width: 1000px) {
 .homepage {
 	align-items: center;
 	justify-content: center;
+}
+}
+@media (min-width: 1001px) {
+	.homepage {
+	align-items: center;
+	justify-content: center;
 	display: flex;
+}
 }
 
 .homepage img {
