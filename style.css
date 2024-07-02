@@ -46,6 +46,7 @@ body {
 .homepage {
 	align-items: center;
 	justify-content: center;
+	display: inline;
 }
 }
 @media (min-width: 1001px) {
