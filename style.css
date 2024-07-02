@@ -48,21 +48,30 @@ body {
 	justify-content: center;
 	display: inline;
 }
+	.homepage img {
+	width: 60vw;
+	margin: 5vw;
+		margin-left: 10vw;
+	border: 0.5vw solid tan;
+	box-shadow: 5px 5px 10px 2px rgba(0,0,0,.8);
+}
 }
 @media (min-width: 1001px) {
 	.homepage {
 	align-items: center;
 	justify-content: center;
 	display: flex;
+		
 }
-}
-
-.homepage img {
+	.homepage img {
 	width: 30vw;
 	margin: 5vw;
 	border: 0.5vw solid tan;
 	box-shadow: 5px 5px 10px 2px rgba(0,0,0,.8);
 }
+}
+
+
 
 .homepage h3 {
 	color: tan;
