@@ -238,7 +238,7 @@ ul {
 
 li {
 	color: tan;
-	font-size: 0.4em;
+	font-size: 1.17em;
 	font-weight: bold;
 	  margin-top: 1em;
   margin-bottom: 1em;
@@ -246,8 +246,5 @@ li {
 
 li a {
 	color: tan;
-	font-size: 0.4em;
-	font-weight: bold;
-	  margin-top: 1em;
-  margin-bottom: 1em;
+
 }
